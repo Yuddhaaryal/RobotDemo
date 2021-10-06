@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\ReadText\obj\Debug\net5.0\ReadText.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ReadText\obj\Debug\net5.0\ReadText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ReadText\obj\Debug\net5.0\ReadText.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ReadText\obj\Debug\net5.0\ReadText.AssemblyInfo.cs
+C:\Users\User\source\repos\ReadText\obj\Debug\net5.0\ReadText.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ReadText\bin\Debug\net5.0\ReadText.exe
+C:\Users\User\source\repos\ReadText\bin\Debug\net5.0\ReadText.deps.json
+C:\Users\User\source\repos\ReadText\bin\Debug\net5.0\ReadText.runtimeconfig.json
+C:\Users\User\source\repos\ReadText\bin\Debug\net5.0\ReadText.runtimeconfig.dev.json
+C:\Users\User\source\repos\ReadText\bin\Debug\net5.0\ReadText.dll
+C:\Users\User\source\repos\ReadText\bin\Debug\net5.0\ref\ReadText.dll
+C:\Users\User\source\repos\ReadText\bin\Debug\net5.0\ReadText.pdb
+C:\Users\User\source\repos\ReadText\obj\Debug\net5.0\ReadText.dll
+C:\Users\User\source\repos\ReadText\obj\Debug\net5.0\ref\ReadText.dll
+C:\Users\User\source\repos\ReadText\obj\Debug\net5.0\ReadText.pdb
+C:\Users\User\source\repos\ReadText\obj\Debug\net5.0\ReadText.genruntimeconfig.cache
